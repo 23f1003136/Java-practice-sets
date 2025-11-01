@@ -1,4 +1,4 @@
-# Java DSA Practice
+# Java Practice Sets
 
 This repository contains basic java which is solved during my learning journey.
 
